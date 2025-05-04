@@ -25,13 +25,15 @@ The platform is designed to be flexible and extensible, allowing for easy integr
 ## Models and Algorithms
 
 ### 1. **Predictive Models**
-   This module includes a set of models designed for predicting future outcomes based on historical data. It covers a wide range of statistical and machine learning techniques, including:
+   This module includes a set of models designed for predicting future outcomes based on historical data.
+   It covers a wide range of statistical and machine learning techniques, including:
    - **Time-series Forecasting**: For demand forecasting, trend analysis, and more.
    - **Regression Analysis**: Includes linear and polynomial regression models.
    - **Seasonal and Trend Decomposition**: Helps separate seasonal effects from trends in time-series data.
 
 ### 2. **Automated Decision-Making Algorithms**
-   A set of algorithms that automate complex decision-making processes based on real-time data. These include:
+   A set of algorithms that automate complex decision-making processes based on real-time data. 
+   These include:
    - **Optimization Models**: For decision optimization.
    - **Heuristic Algorithms**: Designed to solve complex problems where exact solutions are difficult to compute.
    - **Reinforcement Learning**: For continuous improvement of decisions over time.
@@ -45,7 +47,8 @@ The platform is designed to be flexible and extensible, allowing for easy integr
    These tools improve efficiency and reduce human error across various tasks.
 
 ### 5. **Executive Decision Support Systems**
-   A set of tools designed to help executives make informed decisions based on real-time data analysis. Features include:
+   A set of tools designed to help executives make informed decisions based on real-time data analysis. 
+   Features include:
    - **Strategic Planning**: Facilitates long-term decision-making.
    - **Risk Assessment**: Tools for identifying and managing risks.
    - **Business Performance Analysis**: Provides insights and recommendations to optimize business performance.
