@@ -18,7 +18,7 @@ The platform is designed to be flexible and extensible, allowing for easy integr
   
 - **Scalable Systems**: Built with scalability in mind, the platform can be easily extended with new models, tools, and algorithms. Whether you're working with financial data, healthcare systems, or e-commerce platforms, CleverSystems can be tailored to meet your specific needs.
   
-- **Versatility Across Industries**: Whether you're working in finance, technology, healthcare, or any other field, CleverSystems offers the flexibility to integrate a wide range of algorithms and solutions to address unique challenges. From predictive modeling to business process automation, CleverSystems supports a broad range of applications.
+- **Versatility Across Industries**: CleverSystems offers the flexibility to integrate a wide range of algorithms and solutions to address unique challenges. From predictive modeling to business process automation, CleverSystems supports a broad range of applications.
 
 ---
 
