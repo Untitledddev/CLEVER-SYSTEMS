@@ -1,6 +1,4 @@
-
-/**
- * Consumer Demand Forecasting & Analysis - Professional Edition
+/* Consumer Demand Predictor - Professional Edition
  * 
  * Features:
  *  - Statistical utilities (mean, variance, normalization)
