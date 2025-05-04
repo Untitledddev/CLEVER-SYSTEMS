@@ -47,7 +47,6 @@ The platform is designed to be flexible and extensible, allowing for easy integr
    - **Strategic Planning**: Facilitates long-term decision-making.
    - **Risk Assessment**: Tools for identifying and managing risks.
    - **Business Performance Analysis**: Provides insights and recommendations to optimize business performance.
-   - **Dashboards and Alerts**: For real-time monitoring and proactive decision-making.
 
 ---
 
